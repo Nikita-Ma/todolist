@@ -14,7 +14,7 @@ Todo App
 
 ![Todolist](https://i.ibb.co/mB3YvLc/Screenshot-12.png)
 
-####launch a project
+#### launch a project
 ```$xslt
 npm install
 npm run start
