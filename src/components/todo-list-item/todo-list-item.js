@@ -8,13 +8,17 @@ class TodoListItem extends Component {
         important: false
     }
     clickLable = () => {
-        this.setState({
-            done: true
+        this.setState((state)=>{
+            return{
+                done: !state.done
+            }
         })
     }
     MarkImportant = ()=>{
-        this.setState({
-            important: true
+        this.setState((state)=>{
+            return{
+                important: !state.important
+            }
         })
     }
     render() {
