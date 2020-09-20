@@ -1,7 +1,10 @@
 Todo App
 -----
-##Application type
-####Opportunities
+
+## Application type
+
+#### Opportunities
+
 - **Adding / removing elements**
 - **Celebrate the degree of importance**
 -  **Filter**
